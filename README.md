@@ -1,5 +1,5 @@
 # Python-Scripts-Used-in-the-Instacart-Grocery-Basket-Analysis
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but would like to uncover more information about their sales patterns. The purpose of this project is to perform an initial data and exploratory analysis of some of Instacart's data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but would like to uncover more information about their sales patterns. **The purpose of this project is to perform an initial data and exploratory analysis of some of Instacart's data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.**
 
 The variety of customers and their purchasing behaviors in the database is the most interesting topic for the main Instacart stakeholders who believe they could not target everyone using the same methods and strategy. They believe that targeting different customers with applicable marketing campaigns would have a positive effect on the sale of their products. 
 

@@ -19,7 +19,7 @@ when there are fewer orders.
     - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
     - What differences can we find in ordering habits of different customer profiles? Considering the price of orders, the frequency of orders, the products customers are ordering, etc.
 
-Data Sets: The Instacart Online Grocery Shopping Dataset 2017, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 2021-10-15. 
+Data Set: The Instacart Online Grocery Shopping Dataset 2017, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 2021-10-15. 
 
 
 
